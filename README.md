@@ -1,4 +1,4 @@
-Amazon Clone   (readme by chatgpt)
+Amazon Clone   (readme by chatgpt) <br>
 This project is an Amazon clone that demonstrates the structure and layout of a typical e-commerce website. It includes a header, hero section, product showcase, and footer, mimicking the basic appearance and functionality of the Amazon website.
 
 Features
